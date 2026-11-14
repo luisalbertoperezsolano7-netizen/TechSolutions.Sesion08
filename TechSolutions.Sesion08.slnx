@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TechSolutions.Instalador/TechSolutions.Instalador.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="TechSolutions.Sesion08/TechSolutions.Sesion08.csproj" Id="75202ef2-f84a-46f1-8cde-d93575cfe072" />
+</Solution>
